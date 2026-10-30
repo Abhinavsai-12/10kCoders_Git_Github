@@ -1,6 +1,6 @@
 # 10kCoders Git and GitHub Practice
 
-## About the Repository
+## About this Repository
 This repository contains Git and GitHub practice tasks completed as part of the 10kCoders training program. It includes practical exercises to learn version control, repository management, branching, and collaboration.
 
 ## Technologies Used
